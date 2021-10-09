@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/job-finder-redux/static/css/main.9c053069.chunk.css",
+    "main.css": "/job-finder-redux/static/css/main.56a4b1f6.chunk.css",
     "main.js": "/job-finder-redux/static/js/main.0e63a9c1.chunk.js",
     "main.js.map": "/job-finder-redux/static/js/main.0e63a9c1.chunk.js.map",
     "runtime-main.js": "/job-finder-redux/static/js/runtime-main.6dee319a.js",
@@ -8,13 +8,13 @@
     "static/js/2.34039242.chunk.js": "/job-finder-redux/static/js/2.34039242.chunk.js",
     "static/js/2.34039242.chunk.js.map": "/job-finder-redux/static/js/2.34039242.chunk.js.map",
     "index.html": "/job-finder-redux/index.html",
-    "static/css/main.9c053069.chunk.css.map": "/job-finder-redux/static/css/main.9c053069.chunk.css.map",
+    "static/css/main.56a4b1f6.chunk.css.map": "/job-finder-redux/static/css/main.56a4b1f6.chunk.css.map",
     "static/js/2.34039242.chunk.js.LICENSE.txt": "/job-finder-redux/static/js/2.34039242.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6dee319a.js",
     "static/js/2.34039242.chunk.js",
-    "static/css/main.9c053069.chunk.css",
+    "static/css/main.56a4b1f6.chunk.css",
     "static/js/main.0e63a9c1.chunk.js"
   ]
 }
