@@ -1,6 +1,6 @@
 {
-  "name": "find-job-app-redux",
-  "homepage": "http://renatosalzano.github.io/find-job-app-redux",
+  "name": "job-finder-redux",
+  "homepage": "http://renatosalzano.github.io/job-finder-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
