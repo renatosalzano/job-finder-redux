@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/find-job-app-redux/static/css/main.e547cd3c.chunk.css",
-    "main.js": "/find-job-app-redux/static/js/main.a19a9f52.chunk.js",
-    "main.js.map": "/find-job-app-redux/static/js/main.a19a9f52.chunk.js.map",
-    "runtime-main.js": "/find-job-app-redux/static/js/runtime-main.c3a7dbd6.js",
-    "runtime-main.js.map": "/find-job-app-redux/static/js/runtime-main.c3a7dbd6.js.map",
-    "static/js/2.745bfb04.chunk.js": "/find-job-app-redux/static/js/2.745bfb04.chunk.js",
-    "static/js/2.745bfb04.chunk.js.map": "/find-job-app-redux/static/js/2.745bfb04.chunk.js.map",
-    "index.html": "/find-job-app-redux/index.html",
-    "static/css/main.e547cd3c.chunk.css.map": "/find-job-app-redux/static/css/main.e547cd3c.chunk.css.map",
-    "static/js/2.745bfb04.chunk.js.LICENSE.txt": "/find-job-app-redux/static/js/2.745bfb04.chunk.js.LICENSE.txt"
+    "main.css": "/job-finder-redux/static/css/main.e547cd3c.chunk.css",
+    "main.js": "/job-finder-redux/static/js/main.b45c3d2f.chunk.js",
+    "main.js.map": "/job-finder-redux/static/js/main.b45c3d2f.chunk.js.map",
+    "runtime-main.js": "/job-finder-redux/static/js/runtime-main.6dee319a.js",
+    "runtime-main.js.map": "/job-finder-redux/static/js/runtime-main.6dee319a.js.map",
+    "static/js/2.34039242.chunk.js": "/job-finder-redux/static/js/2.34039242.chunk.js",
+    "static/js/2.34039242.chunk.js.map": "/job-finder-redux/static/js/2.34039242.chunk.js.map",
+    "index.html": "/job-finder-redux/index.html",
+    "static/css/main.e547cd3c.chunk.css.map": "/job-finder-redux/static/css/main.e547cd3c.chunk.css.map",
+    "static/js/2.34039242.chunk.js.LICENSE.txt": "/job-finder-redux/static/js/2.34039242.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3a7dbd6.js",
-    "static/js/2.745bfb04.chunk.js",
+    "static/js/runtime-main.6dee319a.js",
+    "static/js/2.34039242.chunk.js",
     "static/css/main.e547cd3c.chunk.css",
-    "static/js/main.a19a9f52.chunk.js"
+    "static/js/main.b45c3d2f.chunk.js"
   ]
 }
