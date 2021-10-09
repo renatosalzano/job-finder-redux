@@ -1,17 +1,21 @@
-import { configureStore, ThunkAction, Action } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import { configureStore } from "@reduxjs/toolkit";
+import { useDispatch } from "react-redux";
+import { themuseApi } from "../service/themuseAPI";
+import apiSlice from "./apiSlice";
+import jobSlice from "./jobSlice";
 
 export const store = configureStore({
   reducer: {
-    counter: counterReducer,
+    request: apiSlice,
+    job: jobSlice,
+    [themuseApi.reducerPath]: themuseApi.reducer,
   },
+  middleware: (getDefaultMiddleware) =>
+    getDefaultMiddleware().concat(themuseApi.middleware),
 });
 
-export type AppDispatch = typeof store.dispatch;
+/* setupListeners(store.dispatch); */
+
 export type RootState = ReturnType<typeof store.getState>;
-export type AppThunk<ReturnType = void> = ThunkAction<
-  ReturnType,
-  RootState,
-  unknown,
-  Action<string>
->;
+export type AppDispatch = typeof store.dispatch;
+export const useAppDispatch = () => useDispatch<AppDispatch>();

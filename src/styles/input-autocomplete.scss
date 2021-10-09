@@ -1,0 +1,48 @@
+._autocomplete_container {
+  position: relative;
+  display: flex;
+  flex: 1;
+  height: var(--input-hg);
+  --input-hg: 40px;
+
+  input {
+    flex-grow: 1;
+    display: flex;
+    width: 100%;
+    border: none;
+    outline: none;
+    padding-left: 8px;
+    border: 2px solid var(--border-color);
+    &:disabled {
+      background-color: var(--border-color);
+    }
+  }
+  ._drop_down {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    display: block;
+    background-color: white;
+    max-height: 50vh;
+    overflow-y: auto;
+    list-style: none;
+    box-shadow: 0 6px 6px var(--shadow-color);
+    .suggestion {
+      display: block;
+      text-align: left;
+      padding: 8px;
+    }
+    ._active {
+      background-color: var(--accent-color);
+      color: white;
+    }
+  }
+}
+
+.is_focus {
+  box-shadow: 0 2px 6px var(--shadow-color);
+  input {
+    border: 2px solid var(--accent-color);
+  }
+}

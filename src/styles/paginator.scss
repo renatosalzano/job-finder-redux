@@ -1,0 +1,19 @@
+.paginator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  gap: 10px;
+  height: 60px;
+  width: 100%;
+  border-top: 1px solid var(--shadow-color);
+  z-index: 200;
+  .arrow {
+    width: 40px;
+    height: 40px;
+    padding: 6px;
+    cursor: pointer;
+    color: white;
+    background-color: var(--accent-color);
+  }
+}
