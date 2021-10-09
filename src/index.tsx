@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
 
+import "./styles/layout.scss";
 import "./styles/header.scss";
 import "./styles/paginator.scss";
 import "./styles/job-list.scss";
