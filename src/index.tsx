@@ -11,7 +11,7 @@ import App from "./App";
 import { store } from "./app/store";
 import { Provider } from "react-redux";
 
-if (
+/* if (
   /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
     navigator.userAgent
   )
@@ -20,7 +20,7 @@ if (
   console.log("mobile");
 } else {
   require("./styles/layout.scss");
-}
+} */
 
 ReactDOM.render(
   <Provider store={store}>
