@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/job-finder-redux/static/css/main.e547cd3c.chunk.css",
-    "main.js": "/job-finder-redux/static/js/main.b45c3d2f.chunk.js",
-    "main.js.map": "/job-finder-redux/static/js/main.b45c3d2f.chunk.js.map",
+    "main.css": "/job-finder-redux/static/css/main.eff577dc.chunk.css",
+    "main.js": "/job-finder-redux/static/js/main.b6a2f2d2.chunk.js",
+    "main.js.map": "/job-finder-redux/static/js/main.b6a2f2d2.chunk.js.map",
     "runtime-main.js": "/job-finder-redux/static/js/runtime-main.6dee319a.js",
     "runtime-main.js.map": "/job-finder-redux/static/js/runtime-main.6dee319a.js.map",
-    "static/js/2.34039242.chunk.js": "/job-finder-redux/static/js/2.34039242.chunk.js",
-    "static/js/2.34039242.chunk.js.map": "/job-finder-redux/static/js/2.34039242.chunk.js.map",
+    "static/js/2.5accd8ff.chunk.js": "/job-finder-redux/static/js/2.5accd8ff.chunk.js",
+    "static/js/2.5accd8ff.chunk.js.map": "/job-finder-redux/static/js/2.5accd8ff.chunk.js.map",
     "index.html": "/job-finder-redux/index.html",
-    "static/css/main.e547cd3c.chunk.css.map": "/job-finder-redux/static/css/main.e547cd3c.chunk.css.map",
-    "static/js/2.34039242.chunk.js.LICENSE.txt": "/job-finder-redux/static/js/2.34039242.chunk.js.LICENSE.txt"
+    "static/css/main.eff577dc.chunk.css.map": "/job-finder-redux/static/css/main.eff577dc.chunk.css.map",
+    "static/js/2.5accd8ff.chunk.js.LICENSE.txt": "/job-finder-redux/static/js/2.5accd8ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6dee319a.js",
-    "static/js/2.34039242.chunk.js",
-    "static/css/main.e547cd3c.chunk.css",
-    "static/js/main.b45c3d2f.chunk.js"
+    "static/js/2.5accd8ff.chunk.js",
+    "static/css/main.eff577dc.chunk.css",
+    "static/js/main.b6a2f2d2.chunk.js"
   ]
 }
