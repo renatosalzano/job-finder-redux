@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/find-job-app-redux/static/css/main.e547cd3c.chunk.css",
+    "main.js": "/find-job-app-redux/static/js/main.a19a9f52.chunk.js",
+    "main.js.map": "/find-job-app-redux/static/js/main.a19a9f52.chunk.js.map",
+    "runtime-main.js": "/find-job-app-redux/static/js/runtime-main.c3a7dbd6.js",
+    "runtime-main.js.map": "/find-job-app-redux/static/js/runtime-main.c3a7dbd6.js.map",
+    "static/js/2.745bfb04.chunk.js": "/find-job-app-redux/static/js/2.745bfb04.chunk.js",
+    "static/js/2.745bfb04.chunk.js.map": "/find-job-app-redux/static/js/2.745bfb04.chunk.js.map",
+    "index.html": "/find-job-app-redux/index.html",
+    "static/css/main.e547cd3c.chunk.css.map": "/find-job-app-redux/static/css/main.e547cd3c.chunk.css.map",
+    "static/js/2.745bfb04.chunk.js.LICENSE.txt": "/find-job-app-redux/static/js/2.745bfb04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3a7dbd6.js",
+    "static/js/2.745bfb04.chunk.js",
+    "static/css/main.e547cd3c.chunk.css",
+    "static/js/main.a19a9f52.chunk.js"
+  ]
+}
